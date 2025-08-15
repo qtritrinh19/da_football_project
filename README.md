@@ -2,6 +2,8 @@
 
 ### A Project for Borussia Dortmund (2016/17 Season)
 
+Data: [Football Data from Transfermarkt](https://www.kaggle.com/datasets/davidcariboo/player-scores/data)
+
 ## 🎯 Objective
 
 This project simulates a real-world data analysis task for a top-tier football club. The scenario is the end of the 2015/16 season, where Borussia Dortmund, under Head Coach Thomas Tuchel, faces the critical challenge of replacing key players, most notably the Bundesliga's top creator, Henrikh Mkhitaryan.
