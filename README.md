@@ -33,7 +33,7 @@ The analysis follows a three-act storytelling structure to guide the decision-ma
 
 We start with a broad view of the entire European market for right-wingers. By plotting all available players on a bubble chart comparing their **Performance (G+A per 90)**, **Potential (Age)**, and **Cost (Market Value)**, we can immediately identify different strategic tiers and isolate a high-value "Prime Targets" quadrant.
 
-![Market Analysis Chart](visualizations/image_7eb8a9.jpg)
+![Market Analysis Chart](image/Market_Analysis.jpg)
 > *This chart allows us to filter out the noise and focus on a shortlist of young, high-performing, and financially viable players.*
 
 ---
@@ -43,7 +43,7 @@ For each shortlisted candidate, we build a detailed dossier. This involves analy
 * **Tactical DNA (Heatmap/Sunburst):** Reveals a player's positional and formational versatility.
 * **Goalscoring & Creative DNA (Donut Charts):** Breaks down *how* a player scores and assists, revealing key traits like two-footedness or set-piece mastery.
 
-![Dembélé's DNA Charts](visualizations/image_7cea15.png) ![Dembélé's DNA Charts](visualizations/image_7cea2d.png)
+![Dembélé's DNA Charts](image/Dembele_Goalscoring.png) ![Dembélé's DNA Charts](image/Dembele_Playmaking.png)
 > *Dembélé's DNA charts revealed his exceptional two-footedness, a key differentiator.*
 
 ---
@@ -51,7 +51,7 @@ For each shortlisted candidate, we build a detailed dossier. This involves analy
 
 Finally, we place the top candidates in a direct, multi-faceted comparison using a radar chart. This visualizes their strengths and weaknesses against the core attributes required by the coach (Performance, Potential, Two-Footedness, Set-Piece Threat, Tactical Flexibility).
 
-![Final Radar Chart](visualizations/image_8a06ed.jpg)
+![Final Radar Chart](image/Final_Comparision.png)
 > *The radar chart provides a definitive visual summary, making the final recommendation clear and easy to understand.*
 
 ## 🏆 Final Recommendation
