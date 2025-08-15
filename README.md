@@ -33,7 +33,7 @@ The analysis follows a three-act storytelling structure to guide the decision-ma
 
 We start with a broad view of the entire European market for right-wingers. By plotting all available players on a bubble chart comparing their **Performance (G+A per 90)**, **Potential (Age)**, and **Cost (Market Value)**, we can immediately identify different strategic tiers and isolate a high-value "Prime Targets" quadrant.
 
-![Market Analysis Chart](image/Market_Analysis.jpg)
+![Market Analysis Chart](image/Market_Analysis.png)
 > *This chart allows us to filter out the noise and focus on a shortlist of young, high-performing, and financially viable players.*
 
 ---
