@@ -2,7 +2,7 @@
 
 ### A Project for Borussia Dortmund (2016/17 Season)
 
-Data: [Football Data from Transfermarkt](https://www.kaggle.com/datasets/davidcariboo/player-scores/data)
+**Data**: [Football Data from Transfermarkt](https://www.kaggle.com/datasets/davidcariboo/player-scores/data)
 
 ## 🎯 Objective
 
