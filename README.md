@@ -45,7 +45,7 @@ For each shortlisted candidate, we build a detailed dossier. This involves analy
 * **Tactical DNA (Heatmap/Sunburst):** Reveals a player's positional and formational versatility.
 * **Goalscoring & Creative DNA (Donut Charts):** Breaks down *how* a player scores and assists, revealing key traits like two-footedness or set-piece mastery.
 
-![Dembélé's DNA Charts](image/Dembele_Goalscoring.png) ![Dembélé's DNA Charts](image/Dembele_Playmaking.png)
+![Dembélé's DNA Charts](image/Dembele_Goalscoring.png) ![Dembélé's DNA Charts](image/Dembele_Playmaking.png) ![Dembélé's DNA Charts](image/Dembele_Tactical.png)
 > *Dembélé's DNA charts revealed his exceptional two-footedness, a key differentiator.*
 
 ---
